@@ -1,0 +1,6 @@
+name: genpark-web-table-to-structured-json-parser-skill
+version: 1.0.0
+description: HTML table matrix parser extracting column headers and cell rows into structured JSON list of dicts
+command: python
+args:
+  - mcp_server.py
